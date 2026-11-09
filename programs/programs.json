@@ -1,13 +1,6 @@
 {
   "programs": [
     {
-      "id": "relic",
-      "version": "3.0.1",
-      "file": "programs/relic/Relic-3.0.1.exe",
-      "sha256": "4aaa17be8123f490fdeb49e1dbc2cb8f35397a7eada2d069f4a6b0bc27ee5fcb",
-      "size": 10570752
-    },
-    {
       "id": "lifeline",
       "version": "0.1.1",
       "file": "programs/lifeline/Lifeline-0.1.1.exe",
@@ -48,6 +41,13 @@
       "file": "programs/papertrail/PaperTrail-2.2.2.exe",
       "sha256": "b36a022fa86b68d2bdb573fd8eed8cfb1882c95c3948b7d1b4da809b4a5260c7",
       "size": 15265280
+    },
+    {
+      "id": "relic",
+      "version": "3.0.2",
+      "file": "programs/relic/Relic-3.0.2.exe",
+      "sha256": "65a8ecfc98ea0c5ddd0c15751d0410b11bb0c1d578d1ed3220f8e3fc0a75906b",
+      "size": 10566656
     }
   ]
 }
