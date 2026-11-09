@@ -41,6 +41,13 @@
       "file": "programs/papertrail/PaperTrail-2.2.0.exe",
       "sha256": "c45363128c38f97721a7515aad1cdbd9143368950b26521ce2f386eaa0132409",
       "size": 15276032
+    },
+    {
+      "id": "relic",
+      "version": "3.0.0",
+      "file": "programs/relic/Relic-3.0.0.exe",
+      "sha256": "d9f8cc40b8b64490054b9718b366aeb5c2b94d6c23c03b8208abbf4b8f70e7e6",
+      "size": 10580480
     }
   ]
 }
