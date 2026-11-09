@@ -13,6 +13,13 @@
       "file": "programs/lantern/LANtern-0.3.0.exe",
       "sha256": "5e104af95614b324c10d05808cd848312ba2450261807a3c0fecc3cf15fae536",
       "size": 14460416
+    },
+    {
+      "id": "reel",
+      "version": "0.1.0",
+      "file": "programs/reel/Reel-0.1.0.exe",
+      "sha256": "cfe1d0b9b69babb41c8555f36e788716d9451f5339f87491688a7e71eebef570",
+      "size": 6524416
     }
   ]
 }
