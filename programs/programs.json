@@ -1,13 +1,6 @@
 {
   "programs": [
     {
-      "id": "lantern",
-      "version": "0.3.0",
-      "file": "programs/lantern/LANtern-0.3.0.exe",
-      "sha256": "5e104af95614b324c10d05808cd848312ba2450261807a3c0fecc3cf15fae536",
-      "size": 14460416
-    },
-    {
       "id": "reel",
       "version": "0.1.0",
       "file": "programs/reel/Reel-0.1.0.exe",
@@ -48,6 +41,13 @@
       "file": "programs/relic/Relic-3.0.0.exe",
       "sha256": "d9f8cc40b8b64490054b9718b366aeb5c2b94d6c23c03b8208abbf4b8f70e7e6",
       "size": 10580480
+    },
+    {
+      "id": "lantern",
+      "version": "0.3.1",
+      "file": "programs/lantern/LANtern-0.3.1.exe",
+      "sha256": "14aff81d9692a3fe8999371dd578c2c231ce137b0df627d6d4899d76edd50651",
+      "size": 14512640
     }
   ]
 }
