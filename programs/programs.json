@@ -9,10 +9,10 @@
     },
     {
       "id": "kiln",
-      "version": "1.1.0",
-      "file": "programs/kiln/Kiln-1.1.0.exe",
-      "sha256": "32c0ba23cc46db9c8fef89636c87683db96de8a081ec978aeb6b5e00ba4d9bfa",
-      "size": 6923264
+      "version": "1.2.0",
+      "file": "programs/kiln/Kiln-1.2.0.exe",
+      "sha256": "81bb122ef504057b8c4d93705f8d841a45ba2205ed0fdd1894850c279e739726",
+      "size": 6977536
     }
   ]
 }
