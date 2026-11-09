@@ -6,6 +6,13 @@
       "file": "programs/lantern/LANtern-0.2.0.exe",
       "sha256": "080f96f4f26c449635f4596d0343dbacc6c1dc86416f5f08d0fdd1fd4b35d84c",
       "size": 14235136
+    },
+    {
+      "id": "kiln",
+      "version": "1.1.0",
+      "file": "programs/kiln/Kiln-1.1.0.exe",
+      "sha256": "32c0ba23cc46db9c8fef89636c87683db96de8a081ec978aeb6b5e00ba4d9bfa",
+      "size": 6923264
     }
   ]
 }
