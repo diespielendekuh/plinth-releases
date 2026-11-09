@@ -8,13 +8,6 @@
       "size": 18006528
     },
     {
-      "id": "relic",
-      "version": "3.0.0",
-      "file": "programs/relic/Relic-3.0.0.exe",
-      "sha256": "d9f8cc40b8b64490054b9718b366aeb5c2b94d6c23c03b8208abbf4b8f70e7e6",
-      "size": 10580480
-    },
-    {
       "id": "lantern",
       "version": "0.3.1",
       "file": "programs/lantern/LANtern-0.3.1.exe",
@@ -48,6 +41,13 @@
       "file": "programs/papertrail/PaperTrail-2.2.1.exe",
       "sha256": "9f4638c25d9e9c39aebd1eca6199eec62ebea5a6f6008ee3536f1196014a6ad2",
       "size": 15266816
+    },
+    {
+      "id": "relic",
+      "version": "3.0.1",
+      "file": "programs/relic/Relic-3.0.1.exe",
+      "sha256": "4aaa17be8123f490fdeb49e1dbc2cb8f35397a7eada2d069f4a6b0bc27ee5fcb",
+      "size": 10570752
     }
   ]
 }
