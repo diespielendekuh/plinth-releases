@@ -1,13 +1,6 @@
 {
   "programs": [
     {
-      "id": "lifeline",
-      "version": "0.1.1",
-      "file": "programs/lifeline/Lifeline-0.1.1.exe",
-      "sha256": "024c0679dd74a9b3065f8f893b56623d7df63817823608c9966f99ea411a1a2d",
-      "size": 18001920
-    },
-    {
       "id": "lantern",
       "version": "0.3.2",
       "file": "programs/lantern/LANtern-0.3.2.exe",
@@ -48,6 +41,13 @@
       "file": "programs/relic/Relic-3.0.2.exe",
       "sha256": "65a8ecfc98ea0c5ddd0c15751d0410b11bb0c1d578d1ed3220f8e3fc0a75906b",
       "size": 10566656
+    },
+    {
+      "id": "lifeline",
+      "version": "0.1.2",
+      "file": "programs/lifeline/Lifeline-0.1.2.exe",
+      "sha256": "99a6ddf69a1d31917bdb689262a7afde89abf0a9eea3d7f996fe3ccc5f726cdb",
+      "size": 18004992
     }
   ]
 }
