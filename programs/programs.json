@@ -8,13 +8,6 @@
       "size": 18006528
     },
     {
-      "id": "ark",
-      "version": "1.3.0",
-      "file": "programs/ark/Ark-1.3.0.exe",
-      "sha256": "5ba8ad8cb3e4e48bf3728e50cbbb61c493eb1ca2e9cd5ed34dcfb06dd28c8091",
-      "size": 6609920
-    },
-    {
       "id": "papertrail",
       "version": "2.2.0",
       "file": "programs/papertrail/PaperTrail-2.2.0.exe",
@@ -48,6 +41,13 @@
       "file": "programs/reel/Reel-0.1.1.exe",
       "sha256": "812afe7ea4b60d43387075b4e85b31ce86dd92a50a44b2b4269b711d90840bb7",
       "size": 6519808
+    },
+    {
+      "id": "ark",
+      "version": "1.3.1",
+      "file": "programs/ark/Ark-1.3.1.exe",
+      "sha256": "14cf8d932e31d1ba8572105ea85dccb782d2d412f38f8c9afbf3ea46e7072b15",
+      "size": 6608896
     }
   ]
 }
