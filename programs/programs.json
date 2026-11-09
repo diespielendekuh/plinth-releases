@@ -1,13 +1,6 @@
 {
   "programs": [
     {
-      "id": "reel",
-      "version": "0.1.0",
-      "file": "programs/reel/Reel-0.1.0.exe",
-      "sha256": "cfe1d0b9b69babb41c8555f36e788716d9451f5339f87491688a7e71eebef570",
-      "size": 6524416
-    },
-    {
       "id": "lifeline",
       "version": "0.1.0",
       "file": "programs/lifeline/Lifeline-0.1.0.exe",
@@ -48,6 +41,13 @@
       "file": "programs/kiln/Kiln-1.3.1.exe",
       "sha256": "39c607540979430907c9e6d2d76de6ae8cff01020441ca8d277a2ad2f79077ad",
       "size": 6946816
+    },
+    {
+      "id": "reel",
+      "version": "0.1.1",
+      "file": "programs/reel/Reel-0.1.1.exe",
+      "sha256": "812afe7ea4b60d43387075b4e85b31ce86dd92a50a44b2b4269b711d90840bb7",
+      "size": 6519808
     }
   ]
 }
