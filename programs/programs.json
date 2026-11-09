@@ -1,18 +1,18 @@
 {
   "programs": [
     {
-      "id": "lantern",
-      "version": "0.2.0",
-      "file": "programs/lantern/LANtern-0.2.0.exe",
-      "sha256": "080f96f4f26c449635f4596d0343dbacc6c1dc86416f5f08d0fdd1fd4b35d84c",
-      "size": 14235136
-    },
-    {
       "id": "kiln",
       "version": "1.2.0",
       "file": "programs/kiln/Kiln-1.2.0.exe",
       "sha256": "81bb122ef504057b8c4d93705f8d841a45ba2205ed0fdd1894850c279e739726",
       "size": 6977536
+    },
+    {
+      "id": "lantern",
+      "version": "0.3.0",
+      "file": "programs/lantern/LANtern-0.3.0.exe",
+      "sha256": "5e104af95614b324c10d05808cd848312ba2450261807a3c0fecc3cf15fae536",
+      "size": 14460416
     }
   ]
 }
