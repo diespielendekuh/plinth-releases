@@ -34,6 +34,13 @@
       "file": "programs/ark/Ark-1.2.0.exe",
       "sha256": "a73301bdab8e06b6d96bc56db7b1033b86762f7362cd87c64fe526e9aee41864",
       "size": 6597120
+    },
+    {
+      "id": "lifeline",
+      "version": "0.1.0",
+      "file": "programs/lifeline/Lifeline-0.1.0.exe",
+      "sha256": "94e80072d0c19a2bba216d8e98ac15a9131922e95316b4cfcecc501faa258716",
+      "size": 18006528
     }
   ]
 }
