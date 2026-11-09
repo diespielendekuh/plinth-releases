@@ -15,13 +15,6 @@
       "size": 18006528
     },
     {
-      "id": "kiln",
-      "version": "1.3.0",
-      "file": "programs/kiln/Kiln-1.3.0.exe",
-      "sha256": "db5b75a11bf0f7f3735bb9025b1a71e6bd82f04a9e6fbba0f6a14ecbdd9a2c28",
-      "size": 6994944
-    },
-    {
       "id": "ark",
       "version": "1.3.0",
       "file": "programs/ark/Ark-1.3.0.exe",
@@ -48,6 +41,13 @@
       "file": "programs/lantern/LANtern-0.3.1.exe",
       "sha256": "14aff81d9692a3fe8999371dd578c2c231ce137b0df627d6d4899d76edd50651",
       "size": 14512640
+    },
+    {
+      "id": "kiln",
+      "version": "1.3.1",
+      "file": "programs/kiln/Kiln-1.3.1.exe",
+      "sha256": "39c607540979430907c9e6d2d76de6ae8cff01020441ca8d277a2ad2f79077ad",
+      "size": 6946816
     }
   ]
 }
