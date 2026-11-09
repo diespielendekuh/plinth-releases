@@ -1,13 +1,6 @@
 {
   "programs": [
     {
-      "id": "papertrail",
-      "version": "2.2.1",
-      "file": "programs/papertrail/PaperTrail-2.2.1.exe",
-      "sha256": "9f4638c25d9e9c39aebd1eca6199eec62ebea5a6f6008ee3536f1196014a6ad2",
-      "size": 15266816
-    },
-    {
       "id": "relic",
       "version": "3.0.1",
       "file": "programs/relic/Relic-3.0.1.exe",
@@ -48,6 +41,13 @@
       "file": "programs/ark/Ark-1.3.2.exe",
       "sha256": "943967f9498533ef782b1af4509f8e658bd4932b89bc108b35ccab3a2f21fc6a",
       "size": 6605824
+    },
+    {
+      "id": "papertrail",
+      "version": "2.2.2",
+      "file": "programs/papertrail/PaperTrail-2.2.2.exe",
+      "sha256": "b36a022fa86b68d2bdb573fd8eed8cfb1882c95c3948b7d1b4da809b4a5260c7",
+      "size": 15265280
     }
   ]
 }
