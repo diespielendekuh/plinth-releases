@@ -1,13 +1,6 @@
 {
   "programs": [
     {
-      "id": "kiln",
-      "version": "1.2.0",
-      "file": "programs/kiln/Kiln-1.2.0.exe",
-      "sha256": "81bb122ef504057b8c4d93705f8d841a45ba2205ed0fdd1894850c279e739726",
-      "size": 6977536
-    },
-    {
       "id": "lantern",
       "version": "0.3.0",
       "file": "programs/lantern/LANtern-0.3.0.exe",
@@ -41,6 +34,13 @@
       "file": "programs/lifeline/Lifeline-0.1.0.exe",
       "sha256": "94e80072d0c19a2bba216d8e98ac15a9131922e95316b4cfcecc501faa258716",
       "size": 18006528
+    },
+    {
+      "id": "kiln",
+      "version": "1.3.0",
+      "file": "programs/kiln/Kiln-1.3.0.exe",
+      "sha256": "db5b75a11bf0f7f3735bb9025b1a71e6bd82f04a9e6fbba0f6a14ecbdd9a2c28",
+      "size": 6994944
     }
   ]
 }
