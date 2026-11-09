@@ -30,10 +30,10 @@
     },
     {
       "id": "ark",
-      "version": "1.1.0",
-      "file": "programs/ark/Ark-1.1.0.exe",
-      "sha256": "164605ab21f6f12c4e66f7c7249b1ebbd63f3b19ff1f36be954f9b478876ccd9",
-      "size": 6589952
+      "version": "1.2.0",
+      "file": "programs/ark/Ark-1.2.0.exe",
+      "sha256": "a73301bdab8e06b6d96bc56db7b1033b86762f7362cd87c64fe526e9aee41864",
+      "size": 6597120
     }
   ]
 }
