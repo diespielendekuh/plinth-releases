@@ -22,18 +22,18 @@
       "size": 6524416
     },
     {
-      "id": "ark",
-      "version": "1.0.0",
-      "file": "programs/ark/Ark-1.0.0.exe",
-      "sha256": "419159431609522855f6a521e8613031db03b617129e0bdcb407e342d71dee7f",
-      "size": 6589952
-    },
-    {
       "id": "papertrail",
       "version": "2.1.0",
       "file": "programs/papertrail/PaperTrail-2.1.0.exe",
       "sha256": "569196c3bdc247024d23fec256571a7b625f108f853dc646335ce7780c4e0c1f",
       "size": 15249920
+    },
+    {
+      "id": "ark",
+      "version": "1.1.0",
+      "file": "programs/ark/Ark-1.1.0.exe",
+      "sha256": "164605ab21f6f12c4e66f7c7249b1ebbd63f3b19ff1f36be954f9b478876ccd9",
+      "size": 6589952
     }
   ]
 }
