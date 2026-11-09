@@ -1,13 +1,6 @@
 {
   "programs": [
     {
-      "id": "kiln",
-      "version": "1.3.1",
-      "file": "programs/kiln/Kiln-1.3.1.exe",
-      "sha256": "39c607540979430907c9e6d2d76de6ae8cff01020441ca8d277a2ad2f79077ad",
-      "size": 6946816
-    },
-    {
       "id": "reel",
       "version": "0.1.1",
       "file": "programs/reel/Reel-0.1.1.exe",
@@ -48,6 +41,13 @@
       "file": "programs/lantern/LANtern-0.3.2.exe",
       "sha256": "d01daca54cf77b31f98e019b36458aea0788c26979fad94537596096987c3f17",
       "size": 14519296
+    },
+    {
+      "id": "kiln",
+      "version": "1.3.2",
+      "file": "programs/kiln/Kiln-1.3.2.exe",
+      "sha256": "6b90cb662e8653b3769e52bc90eb217bcf9097211c2d358038c66278a3eb1bf8",
+      "size": 6948352
     }
   ]
 }
